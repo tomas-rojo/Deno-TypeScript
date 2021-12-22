@@ -1,13 +1,4 @@
-# Desafío #47: Servidor en Deno
-
-## -> Consigna:
-
-- Crear un servidor con Deno.
-- Crear CRUD con  oak
-
-### Nota 
-
-- para ejecutar la api:
+Para ejecutar la API:
 
 Intalar Deno desde
 https://deno.land/#installation
