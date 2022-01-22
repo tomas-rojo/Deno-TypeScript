@@ -1,14 +1,14 @@
-Para ejecutar la API:
+To execute API:
 
-Intalar Deno desde
+Install Deno from:
 https://deno.land/#installation
 
-- abrir un terminal o consola
-- clonar el proyecto
-- ejecutar:
+- open your terminal or console
+- clone the project
+- run the following commands:
 
 ```
-cd <nombre del proyecto>
+cd <project name>
 cp .env.example .env
 ```
  
